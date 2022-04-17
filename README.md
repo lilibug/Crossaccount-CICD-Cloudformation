@@ -27,7 +27,7 @@ The performance efficiency pillar focuses on structured and streamlined allocati
 Prerequisites
 Two AWS accounts were identified and designated:
 
-Tools – The AWS account where pipeline resides
+Tools – The AWS account where pipeline resides </br>
 Target – The AWS account where deployment occurs
 
 ![image](https://user-images.githubusercontent.com/88491497/163722581-b62742e7-e508-43ef-b250-0090f9b0be78.png)
