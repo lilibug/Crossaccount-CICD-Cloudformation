@@ -3,7 +3,7 @@ Cross-account deployment using CI/CD pipeline to deploy Lambda API
 
 <br> <b> GOAL OF THE INFRASTRUCTURE </b>
 
-<br> The goal of the infrastructure is to achieve an automated deployment of the application across different environments.
+<br> The goal of the infrastructure is to achieve an automated deployment of the application across different AWS accounts.
 
 <br> <b> ARCHITECTURE FRAMEWORK </b>
 
