@@ -38,7 +38,7 @@ AWS CloudFormation execution role was created to be assumed by AWS CloudFormatio
 
 In the tools account, the CI/CD pipeline is built using AWS CloudFormation, AWS CodePipeline, AWS CodeBuild, and AWS CodeCommit. 
 
-<b> Result </>
+<b> Result </b>
   
 A fully functioning CI/CD pipeline that deploys your API in the target account. The pipeline starts automatically every time you check in your changes into your CodeCommit repository.
 
